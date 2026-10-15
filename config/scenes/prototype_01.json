@@ -1,0 +1,14 @@
+{
+  "scene_id": "prototype_01",
+  "seed": 14253,
+  "ball_count": 100,
+  "ball_radius": 0.08,
+  "frame_end": 720,
+  "fps": 30,
+  "gravity": -9.81,
+  "render": {
+    "width": 1920,
+    "height": 1080,
+    "samples": 32
+  }
+}
